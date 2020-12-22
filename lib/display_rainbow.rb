@@ -7,3 +7,4 @@ def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'viol
   puts "The fifth letter in the alphabet is: #{letters[0]}"
   puts "The sixth letter in the alphabet is: #{letters[6]}"
   puts "The seventh letter in the alphabet is: #{letters[2]}"
+end
