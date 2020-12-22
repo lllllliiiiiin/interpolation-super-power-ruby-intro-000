@@ -1,5 +1,5 @@
 def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
-  letters = ["r","o","y","g","b","i","v"]
+  letters = ["R","O","Y","G","B","I","V"]
   puts "The first letter in the alphabet is: #{letters[4]}"
   puts "The second letter in the alphabet is: #{letters[3]}"
   puts "The third letter in the alphabet is: #{letters[5]}"
